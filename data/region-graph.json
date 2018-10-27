@@ -1,12 +1,12 @@
 {
-  "City": [
-    "East",
-    "Inner-West"
+  "city": [
+    "east",
+    "inner-west"
   ],
-  "East": [
-    "City"
+  "east": [
+    "city"
   ],
-  "Inner-West": [
-    "City"
+  "inner-west": [
+    "city"
   ]
 }
