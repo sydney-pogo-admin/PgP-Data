@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Pokemon Go Sydney Discord Area</name>
+    <name>Pokemon Go Sydney Discord Area (Regions Only)</name>
     <description>The area currently covered by Professor Pine.</description>
     <Style id="poly-0288D1-3301-99-normal">
       <LineStyle>
@@ -102,7 +102,7 @@
     <Folder>
       <name>Sydney Discord Areas</name>
       <Placemark>
-        <name>City</name>
+        <name>city</name>
         <description><![CDATA[description: <br>OBJECTID: 71<br>CADID: 108012457<br>CREATEDATE: 2004/07/29 13:22:11.000<br>MODIFIEDDA: 2017/07/21 15:57:03.000<br>LGANAME: SYDNEY<br>COUNCILNAM: COUNCIL OF THE CITY OF SYDNEY<br>ABSCODE: 7200<br>LTOCODE: 6081<br>VGCODE: 708<br>WBCODE: 211<br>STARTDATE: 2017/07/21 15:57:31.000<br>ENDDATE: 3000/01/01 00:00:00.000<br>LASTUPDATE: 2017/07/21 15:57:49.000<br>PACKETID: 23620.000000000000000]]></description>
         <styleUrl>#poly-FF0000-2701-66</styleUrl>
         <ExtendedData>
@@ -3506,7 +3506,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>East</name>
+        <name>east</name>
         <description><![CDATA[description: <br>OBJECTID: 77<br>CADID: 108012463<br>CREATEDATE: 2004/07/29 13:22:11.000<br>MODIFIEDDA: 2018/09/19 16:27:57.000<br>LGANAME: WOOLLAHRA<br>COUNCILNAM: WOOLLAHRA MUNICIPAL COUNCIL<br>ABSCODE: 8500<br>LTOCODE: 6100<br>VGCODE: 210<br>WBCODE: 210<br>STARTDATE: 2018/09/19 16:28:42.000<br>ENDDATE: 3000/01/01 00:00:00.000<br>LASTUPDATE: 2018/09/19 16:29:13.000<br>PACKETID: 38265.000000000000000]]></description>
         <styleUrl>#poly-7CB342-2001-92</styleUrl>
         <ExtendedData>
@@ -8568,7 +8568,7 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Inner-West</name>
+        <name>inner-west</name>
         <description><![CDATA[description: <br>OBJECTID: 85<br>CADID: 108012471<br>CREATEDATE: 2004/07/29 13:22:11.000<br>MODIFIEDDA: 2018/09/25 17:00:52.000<br>LGANAME: BURWOOD<br>COUNCILNAM: BURWOOD COUNCIL<br>ABSCODE: 1300<br>LTOCODE: 5370<br>VGCODE: 137<br>WBCODE: 137<br>STARTDATE: 2018/09/25 17:09:09.000<br>ENDDATE: 3000/01/01 00:00:00.000<br>LASTUPDATE: 2018/09/25 17:16:43.000<br>PACKETID: 38524.000000000000000]]></description>
         <styleUrl>#poly-0288D1-3301-99</styleUrl>
         <ExtendedData>
