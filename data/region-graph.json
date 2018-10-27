@@ -1,3 +1,12 @@
 {
-  "sydney": []
+  "City": [
+    "East",
+    "Inner-West"
+  ],
+  "East": [
+    "City"
+  ],
+  "Inner-West": [
+    "City"
+  ]
 }
