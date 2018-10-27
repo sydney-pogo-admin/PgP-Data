@@ -3,74 +3,6 @@
   <Document>
     <name>Pokemon Go Sydney Discord Area</name>
     <description>The area currently covered by Professor Pine.</description>
-    <Style id="icon-1502-0288D1-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1502-0288D1-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1502-0288D1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1502-0288D1-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1502-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1739-000000-normal">
-      <IconStyle>
-        <color>ff000000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1739-000000-highlight">
-      <IconStyle>
-        <color>ff000000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1739-000000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1739-000000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1739-000000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-0288D1-3301-99-normal">
       <LineStyle>
         <color>ffd18802</color>
@@ -168,7 +100,7 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>City</name>
+      <name>Sydney Discord Areas</name>
       <Placemark>
         <name>City</name>
         <description><![CDATA[description: <br>OBJECTID: 71<br>CADID: 108012457<br>CREATEDATE: 2004/07/29 13:22:11.000<br>MODIFIEDDA: 2017/07/21 15:57:03.000<br>LGANAME: SYDNEY<br>COUNCILNAM: COUNCIL OF THE CITY OF SYDNEY<br>ABSCODE: 7200<br>LTOCODE: 6081<br>VGCODE: 708<br>WBCODE: 211<br>STARTDATE: 2017/07/21 15:57:31.000<br>ENDDATE: 3000/01/01 00:00:00.000<br>LASTUPDATE: 2017/07/21 15:57:49.000<br>PACKETID: 23620.000000000000000]]></description>
@@ -3573,11 +3505,8 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>East</name>
       <Placemark>
-        <name/>
+        <name>East</name>
         <description><![CDATA[description: <br>OBJECTID: 77<br>CADID: 108012463<br>CREATEDATE: 2004/07/29 13:22:11.000<br>MODIFIEDDA: 2018/09/19 16:27:57.000<br>LGANAME: WOOLLAHRA<br>COUNCILNAM: WOOLLAHRA MUNICIPAL COUNCIL<br>ABSCODE: 8500<br>LTOCODE: 6100<br>VGCODE: 210<br>WBCODE: 210<br>STARTDATE: 2018/09/19 16:28:42.000<br>ENDDATE: 3000/01/01 00:00:00.000<br>LASTUPDATE: 2018/09/19 16:29:13.000<br>PACKETID: 38265.000000000000000]]></description>
         <styleUrl>#poly-7CB342-2001-92</styleUrl>
         <ExtendedData>
@@ -8638,11 +8567,8 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>InnerWest</name>
       <Placemark>
-        <name/>
+        <name>Inner-West</name>
         <description><![CDATA[description: <br>OBJECTID: 85<br>CADID: 108012471<br>CREATEDATE: 2004/07/29 13:22:11.000<br>MODIFIEDDA: 2018/09/25 17:00:52.000<br>LGANAME: BURWOOD<br>COUNCILNAM: BURWOOD COUNCIL<br>ABSCODE: 1300<br>LTOCODE: 5370<br>VGCODE: 137<br>WBCODE: 137<br>STARTDATE: 2018/09/25 17:09:09.000<br>ENDDATE: 3000/01/01 00:00:00.000<br>LASTUPDATE: 2018/09/25 17:16:43.000<br>PACKETID: 38524.000000000000000]]></description>
         <styleUrl>#poly-0288D1-3301-99</styleUrl>
         <ExtendedData>
