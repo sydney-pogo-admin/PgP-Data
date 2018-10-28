@@ -453,8 +453,14 @@
 		"is_ex": true
 	},
 	"3721370":{
+        "additional_terms": "newtown",
+        "nickname": "St Joseph's Catholic Church (Newtown)",
 		"is_ex": true
 	},
+    "3717890":{
+        "additional_terms": "enfield",
+        "nickname": "St Joseph's Catholic Church (Enfield)"
+    },
 	"3721569":{
 		"is_ex": true
 	},
