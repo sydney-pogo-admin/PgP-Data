@@ -1,14 +1,14 @@
 {
-  "cbd-raids": [
-    "inner-city-raids",
-    "inner-west-raids"
+  "raids-cbd": [
+    "raids-inner-city",
+    "raids-inner-west"
   ],
-  "inner-city-raids": [
-    "cbd-raids",
-    "inner-west-raids"
+  "raids-inner-city": [
+    "raids-cbd",
+    "raids-inner-west"
   ],
-  "inner-west-raids": [
-    "cbd-raids",
-    "inner-city-raids"
+  "raids-inner-west": [
+    "raids-cbd",
+    "raids-inner-city"
   ]
 }
